@@ -16,7 +16,7 @@ puts restaurant_menu.invert.min
 puts promedio(restaurant_menu)
 
 # 4.- Solo nombre de los platos
-nombre_menu = restaurant_menu.keys.to_a
+nombres_menu = restaurant_menu.keys.to_a
 
 # 5.- Solo valores de los platos
 valores_menu = restaurant_menu.values.to_a

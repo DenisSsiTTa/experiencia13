@@ -6,5 +6,4 @@ h.delete('y')
 h.each { |key,value| puts 'yeeah' if key == 'z' }
 
 h = h.invert
-
 puts h

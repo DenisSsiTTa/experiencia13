@@ -73,5 +73,4 @@ begin
     else
       puts 'Error en selección. Intente otro número.'
   end
-
 end until salida
